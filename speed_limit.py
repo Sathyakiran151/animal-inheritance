@@ -1,6 +1,4 @@
-'''4. Vehicle Speed System
-
-Concept: Method overriding using inheritance.
+'''
 
 Description:
 Create a base class Vehicle with a max_speed() method.
